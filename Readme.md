@@ -77,4 +77,4 @@ For detailed API documentation, refer to the codebase or the API testing tool us
 You can find the frontend of this project here: [Frontend Repository](https://github.com/abuiron/online-assessment-frontend)
 
 ## Backend Live Link
-The live backend of this project can be accessed at: [Backend Live Link](gh)
+The live backend of this project can be accessed at: [Backend Live Link](https://online-assessment-backend.onrender.com)
