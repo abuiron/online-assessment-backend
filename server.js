@@ -12,7 +12,7 @@ const port = process.env.PORT || 5000;
 
 // Enable CORS middleware
 app.use(cors({
-  origin: 'http://localhost:5173', // Allow frontend running on this URL
+  origin: 'https://online-assessment-portal.netlify.app', // Allow frontend running on this URL
   credentials: true, // Allow credentials like cookies or authorization headers
 }));
 
