@@ -41,17 +41,17 @@ This repository contains the backend code for the Online Assessment System, whic
 
    To run this project, you will need to create a .env file in the root directory and add the following environment variables:
 
-   ``bash
-   MONGO_URL = <your-mongo-db-url>
-   JWT_SECRET = <your-jwt-secret>
-   PORT = <your-port>
+   
+   <br>MONGO_URL = your-mongo-db-url
+   JWT_SECRET = your-jwt-secret
+   PORT = your-port<br>
 
-   Make sure to replace <your-mongo-db-url>, <your-jwt-secret>, and <your-port> with the appropriate values for your project.
+   Make sure to replace your-mongo-db-url, your-jwt-secret, and your-port with the appropriate values for your project.
 
 ## Running the Application
 To start the development server with nodemon, run the following command:
 
-   ``bash
+   ```bash
    npm run dev
 
   This will run the backend on the port specified in your .env file.
