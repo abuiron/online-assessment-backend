@@ -51,7 +51,7 @@ This repository contains the backend code for the Online Assessment System, whic
 ## Running the Application
 To start the development server with nodemon, run the following command:
 
-   ```bash
+   
    npm run dev
 
   This will run the backend on the port specified in your .env file.
