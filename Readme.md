@@ -2,6 +2,17 @@
 
 This repository contains the backend code for the Online Assessment System, which is built using Node.js, Express, and MongoDB. The backend provides APIs for user authentication, exam management, and result tracking.
 
+## Live Link
+
+The live version of the frontend is hosted at:
+**[Live Web App Link](https://online-assessment-portal.netlify.app)**
+
+## Login Page 
+ ![loginpage](https://github.com/abuiron/online-assessment-frontend/blob/main/public/assets/login.png?raw=true)
+
+## Home Page
+ ![Homepage](https://github.com/abuiron/online-assessment-frontend/blob/main/public/assets/front.png?raw=true)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -75,6 +86,3 @@ For detailed API documentation, refer to the codebase or the API testing tool us
 
 ## Frontend Repository
 You can find the frontend of this project here: [Frontend Repository](https://github.com/abuiron/online-assessment-frontend)
-
-## Backend Live Link
-The live backend of this project can be accessed at: [Backend Live Link](https://online-assessment-backend.onrender.com)
